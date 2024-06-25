@@ -21,7 +21,7 @@ Both datasets are divided into four classes. In each class, we add additive nois
 
 ![image](https://github.com/MykytaAvsitidiiskyi/Fractal-time-series-noise-recognition/assets/134547942/ed51c15c-37d0-4a0b-b99a-7883541b0e6b)
 
-*Fractal realisation with $H = 0.5$ and $\( \sigma^2 = 0 \)$*
+Fractal realisation with $H = 0.5$ and $\( \sigma^2 = 0 \)$
 
 ![image](https://github.com/MykytaAvsitidiiskyi/Fractal-time-series-noise-recognition/assets/134547942/21a16bca-2103-416c-8bde-1e69114ccfe2)
 
