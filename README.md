@@ -34,4 +34,16 @@ Fractal realisation with $H = 0.5$ and $\( \sigma^2 = 0.7 \)$
 ![image](https://github.com/MykytaAvsitidiiskyi/Fractal-time-series-noise-recognition/assets/134547942/99c961e1-2e59-4f4f-8a02-e77ec6cf3e97)
 
 Fractal realisation with $H = 0.5$ and $\( \sigma^2 = 0.9 \)$
-
+## A Robust Choice for Image Classification
+In our project, we opted to utilize ResNet-18 as the backbone architecture for image classification tasks. ResNet-18 is part of the ResNet (Residual Network) family, initially introduced by Microsoft Research in 2015. It has gained widespread popularity and recognition for its effectiveness in deep learning tasks, particularly in computer vision. 
+Why ResNet-18? 
+1. Residual Connections: the key innovation in ResNet architecture is the introduction of residual connections, which facilitate easier training of very deep networks by mitigating the vanishing gradient problem.
+2. Pre-trained versions of ResNet-18 on large datasets such as ImageNet are readily available, making it easier to leverage transfer learning for a wide range of image classification tasks.
+3. In our experiments, ResNet-18 demonstrated robust performance across different datasets. Its ability to capture intricate features in images and generalize well to unseen data makes it a preferred choice for both research and practical applications.
+## How to run
+Libs requirements:
+1. torch
+2. torchvision
+3. matplotlib
+4. numpy
+5. scikit-learn
